@@ -1,0 +1,17 @@
+2021-01-27 07:01:56,455 : WARNING : __main__ : Something is not right.
+2021-01-27 07:01:56,455 : ERROR : __main__ : A Major error has happened.
+2021-01-27 07:01:56,455 : CRITICAL : __main__ : Fatal error. Cannot continue
+2021-01-27 08:08:06,848 : ERROR : DB_Connection : Error occured
+2021-01-27 08:09:56,870 : ERROR : DB_Connection : Error occurred
+2021-01-27 08:10:35,059 : ERROR : DB_Connection : Error occurred
+2021-01-27 08:10:57,144 : ERROR : DB_Connection : Error occurred
+2021-01-27 08:11:14,271 : ERROR : DB_Connection : Error occurred
+2021-01-27 08:17:22,073 : ERROR : DB_Connection : Error occurred
+2021-01-27 08:26:51,289 : ERROR : DB_Connection : Error occurred
+'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+2021-01-28 07:57:06,109 - DB_Connection - ERROR - 'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+2021-01-30 14:49:59,964 - DB_Connection - ERROR - 'cryptography' package is required for sha256_password or caching_sha2_password auth methods
