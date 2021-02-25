@@ -1,6 +1,6 @@
 # BankingSystem_MiniProject
 
-This is a simple banking system project, made with python and OOP
+This is a simple banking system project, developed with python as programming language using OOPS concepts.
 It consists of two classes - bank and user.
 
 As soon as user enters he/she is given the option to :
@@ -14,4 +14,4 @@ If users chosses option 2 then he can :
 3. withdraw
 4. Check balance
 
-Data is stored in mysql
+Data is stored in mysql tables.
